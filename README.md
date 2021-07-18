@@ -1,2 +1,5 @@
-# django-hiring
-The files for Django Hiring Task
+# Hiring Task - Django
+
+Fork the repo and get all relevant files required to complete the task
+
+
